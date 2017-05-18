@@ -1,0 +1,1 @@
+Compression Library in JavaScript

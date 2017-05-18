@@ -29,4 +29,3 @@ outputBtn.onclick = () => {
 if (location.hash.length > 1) {
     location.assign((new Vitter.Tree()).decode(location.hash.slice(1)));
 }
-//# sourceMappingURL=index.js.map

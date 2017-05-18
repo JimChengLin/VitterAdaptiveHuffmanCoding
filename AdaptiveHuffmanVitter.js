@@ -317,4 +317,3 @@ var Vitter;
         }
     }
 })(Vitter || (Vitter = {}));
-//# sourceMappingURL=AdaptiveHuffmanVitter.js.map
