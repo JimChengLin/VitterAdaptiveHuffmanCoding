@@ -1,3 +1,3 @@
 Compression Library in JavaScript
 
-checkout: https://jimchenglin.github.io/SimpleCompression/index.html
+Check Out: https://jimchenglin.github.io/SimpleCompression/index.html
