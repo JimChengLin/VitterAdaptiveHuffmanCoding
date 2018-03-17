@@ -1,1 +1,1 @@
-Check Out: https://jimchenglin.github.io/SimpleCompression/index.html
+Check Out: https://jimchenglin.github.io/VitterAdaptiveHuffmanCoding/index.html
